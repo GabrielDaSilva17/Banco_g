@@ -1,0 +1,5 @@
+{
+  "name": "Pro DB Manager",
+  "description": "A professional-grade, web-based database management application. It offers functionalities like user authentication, table creation, CRUD operations on data, image uploads, and PDF exports, all within a sleek and intuitive interface.",
+  "requestFramePermissions": []
+}
